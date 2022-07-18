@@ -3,7 +3,6 @@
     "@loaders.gl/core": "3.0.12",
     "@loaders.gl/gltf": "3.0.12",
     "gsap": "^3.7.0",
-    "parcel": "latest",
     "twgl.js": "^4.19.1"
   },
   "devDependencies": {
